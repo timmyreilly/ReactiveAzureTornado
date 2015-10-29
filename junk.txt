@@ -1,0 +1,5 @@
+
+Old .deployment = 
+
+[config]
+command = deploy.cmd

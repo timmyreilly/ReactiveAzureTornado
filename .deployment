@@ -1,2 +1,4 @@
 [config]
-command = deploy.cmd
+command = python autocomplete.py
+
+
